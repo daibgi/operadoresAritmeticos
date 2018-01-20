@@ -12,6 +12,7 @@ Programa que muestra el uso de los operadores aritméticos
 
 */
 
+// Principio de la clase operadoresaritmeticos
 public class operadoresaritmeticos {
 
 	public static void main(String[] args) {
